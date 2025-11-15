@@ -1,1 +1,2 @@
-# FUTURE_ML_02
+Machine Learning - Churn Prediction System
+Description: Engineered and implemented an end-to-end Churn Prediction System for a telecom dataset to support strategic customer retention. The pipeline included robust data preprocessing, feature engineering (tenure groups, service indicators), and addressing class imbalance using SMOTE. Trained and evaluated multiple classification models (Logistic Regression, Random Forest, XGBoost) using key business metrics (ROC-AUC, Precision/Recall, Confusion Matrix). The final deliverable was a production-ready pipeline that generates individual customer churn probabilities and a dashboard summarizing key churn drivers and model performance.
