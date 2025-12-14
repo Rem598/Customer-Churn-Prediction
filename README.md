@@ -80,5 +80,3 @@ Top churn drivers identified:
 [Portfolio](https://rem598.github.io/Projects/) | [LinkedIn](https://www.linkedin.com/in/rehema-kemunto) | [GitHub](https://github.com/Rem598)
 
 ---
-
-*This project was completed as part of the Future Interns Machine Learning Internship program.*
