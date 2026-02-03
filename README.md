@@ -75,8 +75,4 @@ Top churn drivers identified:
 - **Revenue protection:** Proactively address churn before it impacts bottom line
 
 
-## 📫 Contact
-**Rehema Kemunto**  
-[Portfolio](https://rem598.github.io/Projects/) | [LinkedIn](https://www.linkedin.com/in/rehema-kemunto) | [GitHub](https://github.com/Rem598)
-
 ---
